@@ -1,0 +1,7 @@
+{
+  "versionCode": 23,
+  "versionName": "10.0.22",
+  "apkUrl": "https://github.com/hsm20001026-create/familyvoice-updates/releases/download/v10.0.22/familyvoice-10.0.22.apk",
+  "notes": "채팅 단추 크게 · 새 아이콘 · 호칭 음성인식 삭제 · 앱 안 자동 업그레이드",
+  "sha256": "c0ba854e9cefb4a582c4862d64a59a98f8c12607c0456661c43694a703cad617"
+}
