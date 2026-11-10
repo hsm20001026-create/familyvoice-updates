@@ -1,7 +1,7 @@
 {
-  "versionCode": 25,
-  "versionName": "10.0.24",
-  "apkUrl": "https://github.com/hsm20001026-create/familyvoice-updates/releases/download/v10.0.24/familyvoice-10.0.24.apk",
-  "notes": "내 이름 하나만 입력·수정 · 받는 사람 목록에서 내 이름 빼기 · 아이콘 다듬기",
-  "sha256": "cbec2d46cba45c396fb634b4992c0d8c14dae9a83ada77c4bf68a03e46bc55ec"
+  "versionCode": 26,
+  "versionName": "10.0.25",
+  "apkUrl": "https://github.com/hsm20001026-create/familyvoice-updates/releases/download/v10.0.25/familyvoice-10.0.25.apk",
+  "notes": "내 이름 칸은 이름만 · 받을 사람 1초 눌러 이름 바꾸기",
+  "sha256": "81e02a241a1c619b33129db5b04e9f92c105e7ce272746abb2d00ce01438db6c"
 }
