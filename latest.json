@@ -1,7 +1,7 @@
 {
-  "versionCode": 24,
-  "versionName": "10.0.23",
-  "apkUrl": "https://github.com/hsm20001026-create/familyvoice-updates/releases/download/v10.0.23/familyvoice-10.0.23.apk",
-  "notes": "새 앱 아이콘 (종이컵 전화 + 와이파이)",
-  "sha256": "bd13e60ec4597da6d82cbc5459e66304233708984884dda12705369f549a9515"
+  "versionCode": 25,
+  "versionName": "10.0.24",
+  "apkUrl": "https://github.com/hsm20001026-create/familyvoice-updates/releases/download/v10.0.24/familyvoice-10.0.24.apk",
+  "notes": "내 이름 하나만 입력·수정 · 받는 사람 목록에서 내 이름 빼기 · 아이콘 다듬기",
+  "sha256": "cbec2d46cba45c396fb634b4992c0d8c14dae9a83ada77c4bf68a03e46bc55ec"
 }
