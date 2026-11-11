@@ -1,7 +1,7 @@
 {
-  "versionCode": 27,
-  "versionName": "11.0.1",
-  "apkUrl": "https://github.com/hsm20001026-create/familyvoice-updates/releases/download/v11.0.1/familyvoice-11.0.1.apk",
-  "notes": "첫 화면 새 목록 · 새 아이콘 · 늦게 온 옛 음성 알림 고침",
-  "sha256": "ae5b9b60288750e562907dbe4033592f71c4347099035d9e8e13795e1c224d21"
+  "versionCode": 28,
+  "versionName": "11.0.2",
+  "apkUrl": "https://github.com/hsm20001026-create/familyvoice-updates/releases/download/v11.0.2/familyvoice-11.0.2.apk",
+  "notes": "보낸 사람 이름 정하기 · 받을 사람 고치기(이름/상대 폰 이름)",
+  "sha256": "77345626aed3dc9f1548cc9e333198b93c6c4937394504dae015ffefc8ca7bb0"
 }
