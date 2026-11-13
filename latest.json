@@ -1,7 +1,7 @@
 {
-  "versionCode": 29,
-  "versionName": "13.0.1",
-  "apkUrl": "https://github.com/hsm20001026-create/familyvoice-updates/releases/download/v13.0.1/familyvoice-13.0.1.apk",
-  "notes": "깨진 음성 안내 · 소리 파일 검사 · 사람마다 알림 1개 · ⓘ 보고창",
-  "sha256": "56be848057b7b058bb39e4012966ddb3704c3f470b13aae79c45889f4a992f19"
+  "versionCode": 30,
+  "versionName": "13.0.2",
+  "apkUrl": "https://github.com/hsm20001026-create/familyvoice-updates/releases/download/v13.0.2/familyvoice-13.0.2.apk",
+  "notes": "앱 아이콘이 새 그림(종이컵 전화기 + 노란 와이파이)으로 바뀌었어요.",
+  "sha256": "dc8264b960207c121d065d6eeaf721fd13e174079c1c485ce5c7678bd6ccd009"
 }
